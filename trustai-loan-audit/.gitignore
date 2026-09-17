@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/*.png
+outputs/*.csv
+data/credit_g.csv
+.streamlit/
